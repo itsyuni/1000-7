@@ -1,5 +1,6 @@
 // дединсайдам привет, остальным соболезную
 // by https://yuni.su
+// за быстрокод спасибо https://github.com/motionarium
 
 var dead: integer;
 begin
