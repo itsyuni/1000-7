@@ -3,7 +3,7 @@
 
 import time
 
-x = 1007 - 7
+x = 1000
 
 time.sleep(0.2)
 print('У меня нет проблем')
