@@ -2,6 +2,7 @@
 // by https://yuni.su
 
 #include <iostream>
+#include <unistd.h>
 
 int main()
 {
