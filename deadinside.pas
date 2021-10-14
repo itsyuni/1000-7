@@ -7,11 +7,11 @@ begin
    dead:=1000;
    while (dead > 7) do
    begin
-   writeln(У меня нет проблем)
-   writeln(Кроме моей башки)
-   writeln(Прости, я умер)
+   writeln("У меня нет проблем")
+   writeln("Кроме моей башки")
+   writeln("Прости, я умер")
    writeln(dead, ' - 7 = ', dead-7)
    dead:=dead-7;
-   writeln(Теперь вы дединсайдик)
+   writeln("Теперь вы дединсайдик")
    end:
 end.   
